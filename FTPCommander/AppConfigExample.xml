@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <localPath></localPath>
+  <remotePath></remotePath>
+  <user></user>
+  <password></password>
+  <newFolder></newFolder>
+  <namePattern></namePattern>
+  <startDate></startDate>
+  <endDate></endDate>
+  <typePattern></typePattern>
+  <localFilepathtoUpload></localFilepathtoUpload>
+  <FolderToRename></FolderToRename> 
+  <NewRemoteFolderName></NewRemoteFolderName>
+</configuration>
+<!--
+  <localPath></localPath> 
+  <remotePath></remotePath>
+  <user></user>
+  <password></password>
+  <newFolder>prueba</newFolder> The name of the new folder to create in the remotePath 
+  <namePattern>Example*; *.pdf; ejemplo.pdf </namePattern> Regex pattern or plain name to 
+                           filter and download all files in remotePath that matches the pattern 
+  <startDate></startDate>  Additionally, files can be filter by a Last Modified date range.
+                           This stablishes the start date and the following sets the last date.
+  <endDate></endDate> If endDate is empty; only files modified on the startDate will be considered
+  <typePattern></typePattern> Moreover, you can consider the type of object to filter such as 
+                              // 1 Files  2 Folders 3 Anything 
+  <FolderToRename></FolderToRename>  Folder to Rename on RemotePath
+  <NewRemoteFolderName></NewRemoteFolderName> New Name for the previous folder
+
+-->

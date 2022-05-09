@@ -1,0 +1,16 @@
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.exe
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.deps.json
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.runtimeconfig.json
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.runtimeconfig.dev.json
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.dll
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.pdb
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.csprojAssemblyReference.cache
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.AssemblyInfoInputs.cache
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.AssemblyInfo.cs
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.csproj.CoreCompileInputs.cache
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.dll
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.pdb
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.genruntimeconfig.cache
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FluentFTP.dll
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\obj\Debug\netcoreapp3.1\FTPCommander.csproj.CopyComplete
+C:\Users\ES00614077\source\repos\FTPCommander\FTPCommander\bin\Debug\netcoreapp3.1\FTPCommander.dll.config

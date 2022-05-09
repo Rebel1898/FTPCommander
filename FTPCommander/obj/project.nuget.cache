@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S26hRiHOnEndBX9MnZ10p8ibXOSbJ7KrrGw/KEXQl3HsVRT2+LqXJQiUjLZUyHs72Kn9c3zgdw2Ph5WAtkD2tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ES00614077\\source\\repos\\FTPCommander\\FTPCommander\\FTPCommander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ES00614077\\.nuget\\packages\\fluentftp\\37.0.2\\fluentftp.37.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
